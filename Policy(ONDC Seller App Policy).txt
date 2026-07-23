@@ -1,0 +1,73 @@
+Mperito
+ONDC
+
+Solutions
+
+About
+
+ONDC Buyer App Engagement & Offer Policy
+Last updated: July 1, 2025
+
+Mperito, as a Network Participant on the ONDC (Open Network for Digital Commerce), is committed to ensuring fair, consistent, and transparent engagement with all Buyer Side Applications (BSAs).
+
+This policy outlines the criteria under which Mperito may: (a) Refuse to respond to search requests, or (b) Apply differential treatment in terms of offers (e.g., price, features, terms), in accordance with ONDC’s guidelines and principles of network neutrality.
+
+Purpose
+This policy ensures non-discriminatory practices in our engagement with Buyer Side Apps and defines the circumstances under which refusal or differential treatment may occur.
+
+Criteria for Refusal or Differential Treatment
+Mperito reserves the right to refuse responses or apply differential treatment under the following circumstances:
+
+Non-compliance with ONDC protocols or technical standards.
+Evidence of security threats, system abuse, or bot activity (e.g., excessive search or crawl requests).
+Fraudulent activity, chargebacks, or violation of Mperito’s platform policies.
+Exclusive commercial agreements restricting availability to specific BSAs.
+Failure to disclose platform fees, misleading price representation to customers.
+Unresolved disputes or repeated delays in payment settlements.
+Types of Differential Treatment
+Pricing: Offers, discounts, or prices may vary based on contractual relationships.
+Transaction Terms: Differences in shipping, return policy, or support levels.
+Feature Access: Certain add-ons or features (e.g., express shipping) may be made selectively available.
+Application of Criteria
+All refusal or differential treatment decisions are applied uniformly, without bias.
+
+We maintain audit logs and apply policies consistently across Buyer Apps.
+
+When refusal or treatment variation is triggered, the BSA will receive a reason code and a designated contact point for redressal.
+
+Review and Updates
+This policy is reviewed quarterly to ensure it aligns with ONDC rules, legal requirements, and operational changes.
+
+Updates to the policy will be published publicly and versioned appropriately.
+
+Dispute Resolution
+Buyer Apps may raise queries or disputes by contacting Mperito’s ONDC Support team.
+
+Email: support@mindsclik.com
+Policy Access
+This policy is publicly available at: https://mperito.com/policy/ondc_seller_app
+
+Disclaimer
+This document is subject to change and does not constitute a binding agreement with any Buyer App. All decisions are taken in good faith and in accordance with ONDC guidelines and applicable laws.
+
+Powered By
+
+MindsClik
+Solutions
+
+Mperito Shop
+Mperito Services
+ONDC Solutions
+Policies
+
+Privacy Policy
+Terms & Conditions
+Shipping Policy
+Return Policy
+Refund Policy
+ONDC Seller App Policy
+Company
+
+About
+Our Story
+Contact Details
