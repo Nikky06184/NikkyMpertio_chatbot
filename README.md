@@ -442,26 +442,10 @@ Body
 }
 ```
 
----
-
-# Future Improvements
-
-- Authentication (JWT)
-- Docker
-- CI/CD Pipeline
-- Database Integration
-- Logging
-- Unit Testing
-- Kubernetes Deployment
-- Caching
-- Streaming Responses
-
----
-
 # Author
 
 Nikky Gupta
 
-Data Science / Generative AI Project
+ Generative AI Project
 
 ---
